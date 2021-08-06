@@ -182,7 +182,7 @@
 	                        <td><c:out value="${al.stuclass.classname}" /></td>
 	                        <td>
 	                            <button class="btn btn-primary" onclick="window.location.href='AdminRedirectServlet?action=updatestudent&updateid=<c:out value="${al.studid}" />'" >Update</button>
-	                            <button class="btn btn-info"onclick="window.location.href='AdminRedirectServlet?action=detailstudent&studid=<c:out value="${al.studid}" />'" >Detail</button>
+	                            <button class="btn btn-secondary"onclick="window.location.href='AdminRedirectServlet?action=detailstudent&studid=<c:out value="${al.studid}" />'" >Detail</button>
 	                        </td>
 	                    </tr>
 					</c:forEach>

@@ -89,7 +89,7 @@
             
             <c:forEach items="${programlist}" var="pl">
             	<div class="card my-5">
-            	<h5 class="card-header" style="background-color: #f2f2f2 !important;"><c:out value="${pl.progname}" /></h5>
+            	<h5 class="card-header" style="background-color: #ffc909 !important;"><c:out value="${pl.progname}" /></h5>
 	            	<div class="card-body px-4">
 					<c:forEach items="${classlist}" var="cl">
 						<c:if test="${pl.progcode == cl.progcode}">

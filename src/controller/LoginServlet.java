@@ -46,7 +46,7 @@ public class LoginServlet extends HttpServlet {
 			}
 			else {
 				request.setAttribute("status", loginstatus);
-				RequestDispatcher view = request.getRequestDispatcher("index.jsp.jsp");
+				RequestDispatcher view = request.getRequestDispatcher("index.jsp");
 				view.forward(request, response);
 			}
 		}

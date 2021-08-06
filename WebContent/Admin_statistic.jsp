@@ -29,7 +29,7 @@
         }
         
         th {
-            background-color: #e6e6e6 !important;
+            background-color: #ffc909 !important;
         }
     </style>
     <script>

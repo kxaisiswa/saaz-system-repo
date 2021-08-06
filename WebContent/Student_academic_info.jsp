@@ -29,6 +29,7 @@
         th {
             width: 220px;
             padding: 14px 25px;
+	    background-color: #ffc909 !important;
         }
         
         td {

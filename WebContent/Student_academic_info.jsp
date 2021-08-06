@@ -55,6 +55,7 @@
 </head>
 <body class="bg-light">
     <div class="p-3 text-dark sidebar-style">
+	<center><img src="assets/img/SAAZ_logo.png" alt="Logo Sekolah" style="width: 60%;"></center>
         <h1 class="py-2 align-items-center fw-bold text-dark fs-4">Student</h1>
         <hr>
         <ul class="nav nav-pills flex-column mb-auto">

@@ -21,7 +21,7 @@
 	            		<img src="assets/img/SAAZ_logo.png" width="80" height="80" />
 	            	</div>
 	            	<div class="col-7">
-	            		<h1 class="h5 text-start">SAAZ Student<br>Management<br>System</h1>
+	            		<h1 class="h5 text-start">SAAZ Student hehe<br>Management<br>System</h1>
 					</div>
 	            </div>
                 <h1 class="h3 mb-3 fw-bolder p-3">Sign in</h1>
